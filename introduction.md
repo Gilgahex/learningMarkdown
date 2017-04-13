@@ -29,7 +29,7 @@ Hi!!! I'm a third year stats major and I like green tea lattes, Rick and Morty, 
 #### Favorite Songs
 + Feel It Still - Portugal the Man
 + HUMBLE - Kendrick Lamar
-+ Norf norf - Vince Staples
++ Ultralife - Oh Wonder 
 + Girls@ - Joey Purp
 + We Ain't Them - Childish Gambino
 
