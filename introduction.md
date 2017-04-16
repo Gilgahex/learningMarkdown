@@ -7,7 +7,9 @@
 + Favorite Meme
 
 #### Abstract
-Hi!!! I'm a third year stats major and I like green tea lattes, Rick and Morty, and hiking. 
+Hi everyone! I'm a third year statistics major at UCSB and I like learning, Rick and Morty, and hiking. You can either find me at the library or at a cafe enjoying a green tea latte. This is a simple get-to-know-me as I am familiarize myself with markdown format. 
+
+Some of my projects include classification on healthcare issues and natural language processing. I am also filming a "One Second a Day" for the year of 2017 that is in the works. Ask me all about it! 
 
 #### Contributor
 + Samantha Lee
@@ -21,7 +23,7 @@ Hi!!! I'm a third year stats major and I like green tea lattes, Rick and Morty, 
 | Language      | Levels        	 | Language Preference |
 | ------------- |:------------------:| -------------------:|
 | Python     	| I'm ok 			 | Tryna get better    |
-| R      		| Best at this  	 |  Nah 			   |
+| R      		| Best at this  	 |  Not preferred 			   |
 | C++ 			| Proficient    	 | LOL sure  		   |
 | HTML/CSS 		| Check my website!! |  Nah 		       |
 | Javascript    | Check my website!! |  Nah 			   |
@@ -34,3 +36,4 @@ Hi!!! I'm a third year stats major and I like green tea lattes, Rick and Morty, 
 + We Ain't Them - Childish Gambino
 
 #### Favorite Meme 
+Check out the png image! 
